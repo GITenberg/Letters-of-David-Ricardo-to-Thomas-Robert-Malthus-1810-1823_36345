@@ -1,0 +1,36 @@
+_repo: Letters-of-David-Ricardo-to-Thomas-Robert-Malthus-1810-1823_36345
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Ricardo, David
+    birthdate: 1772
+    deathdate: 1823
+    gutenberg_agent_id: '36323'
+    url: http://www.gutenberg.org/2009/agents/36323
+  editor:
+    agent_name: Bonar, James
+    birthdate: 1852
+    deathdate: 1941
+    gutenberg_agent_id: '38220'
+    url: http://www.gutenberg.org/2009/agents/38220
+description: ''
+gutenberg_issued: '2011-06-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '36345'
+  lccn: '01002361'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Economists -- Great Britain -- Correspondence'
+- !lcsh 'Malthus, T. R. (Thomas Robert), 1766-1834 -- Correspondence'
+- !lcsh 'Ricardo, David, 1772-1823 -- Correspondence'
+- !lcsh 'Malthusianism'
+- !lcc 'HB'
+title: Letters of David Ricardo to Thomas Robert Malthus, 1810-1823
+url: http://www.gutenberg.org/ebooks/36345
